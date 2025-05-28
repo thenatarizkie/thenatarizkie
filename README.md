@@ -34,7 +34,7 @@ If you're working on something interesting, or just want to connect - feel free 
 <table style="width:100%;" border="0">
 	<tr>
 		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=thenatarizkie&show_icons=true&theme=buefy&locale=en&hide_border=true&count_private=true&include_all_commits=true" alt="Github Stat - Natarizkie">
+			<img src="https://github-readme-stats.vercel.app/api?username=thenatarizkie&show_icons=true&theme=buefy&locale=en&hide_border=true&count_private=true" alt="Github Stat - Natarizkie">
 		</td>
 		<td>
 			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thenatarizkie&theme=buefy&hide_border=true&layout=compact&langs_count=8" alt="Most Used Language - Natarizkie">
