@@ -1,6 +1,6 @@
 # Hi, I'm Natarizkie 👋🏻
 [![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&style=social)](https://www.linkedin.com/in/natarizkie/)
-[![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&style=social)](https://x.com/natarizkie_/)
+[![Twitter](https://img.shields.io/badge/--twitter?label=Twitter&style=social)](https://x.com/thenatarizkie/)
 [![Instagram](https://img.shields.io/badge/--instagram?label=Instagram&style=social)](https://www.instagram.com/natarizkie/)
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&style=social)](https://t.me/natarizkie/)
 [![Facebook](https://img.shields.io/badge/--facebook?label=Facebook&style=social)](https://www.facebook.com/natarizkie/)
